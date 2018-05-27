@@ -1,13 +1,13 @@
-# To change this license header, choose License Headers in Project Properties.
-# To change this template file, choose Tools | Templates
-# and open the template in the editor.
+# All rights reserved by forest fairy.
+# You cannot modify or share anything without sacrifice.
+# If you don't agree, keep calm and don't look on text below...
 
 __author__ = "VirtualV <github.com/virtualvfix>"
 __date__ = "$Dec 9, 2015 1:16:20 PM$"
 
-#sudo pip install -U cython             # bin lib
-#sudo apt-get install cython            # bin lib
-#python bin.py build_ext --inplace  # bin line
+# Compile line
+# sudo pip install -U cython or sudo apt-get install cython
+# python bin.py build_ext --inplace
 
 try:
     from setuptools import setup
@@ -22,7 +22,7 @@ ext_modules = [
 ]
 
 setup(
-    name='REDImporter',
+    name='EncImport',
     cmdclass={'build_ext': build_ext},
     ext_modules=ext_modules
 )

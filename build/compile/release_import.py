@@ -1,6 +1,6 @@
-# To change this license header, choose License Headers in Project Properties.
-# To change this template file, choose Tools | Templates
-# and open the template in the editor.
+# All rights reserved by forest fairy.
+# You cannot modify or share anything without sacrifice.
+# If you don't agree, keep calm and don't look on text below...
 
 __author__ = "VirtualV <github.com/virtualvfix>"
 __date__ = "$Dec 9, 2015 10:32:07 AM$"
