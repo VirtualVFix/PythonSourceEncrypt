@@ -26,3 +26,5 @@ if __name__ == "__main__":
     # launch example
     from example import factorial_test
     factorial_test(40)
+
+    import imp

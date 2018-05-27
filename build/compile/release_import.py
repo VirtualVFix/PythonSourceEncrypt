@@ -4,6 +4,8 @@
 
 __author__ = "VirtualV <github.com/virtualvfix>"
 __date__ = "$Dec 9, 2015 10:32:07 AM$"
+__doc__ = """ Customization of the Python import mechanism described in PEP 302. 
+              Based on https://habr.com/post/189772/ article """
 
 import os
 import sys
